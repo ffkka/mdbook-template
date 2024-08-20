@@ -1,6 +1,6 @@
 # Summary
 
-[Introduction](README.md)
+[Introduction](chapter_1.md)
 
 # User Guide
 
@@ -18,7 +18,7 @@
     - [Configuration](format/configuration/README.md)
         - [General](format/configuration/general.md)
         - [Preprocessors](format/configuration/preprocessors.md)
-variables.md)
+        variables.md)
     - [Theme](format/theme/README.md)
         - [index.hbs](format/theme/index-hbs.md)
         - [Syntax highlighting](format/theme/syntax-highlighting.md)

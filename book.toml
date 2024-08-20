@@ -1,0 +1,10 @@
+[book]
+authors = ["kka"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mdbook-template"
+
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js = ["theme/pagetoc.js"]
